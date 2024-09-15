@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ocr-trans-summary-bot
 
 Demonstrate the core capabilities of the Microsoft Bot Framework
@@ -59,3 +60,6 @@ To learn more about deploying a bot to Azure, see [Deploy your bot to Azure](htt
 - [Channels and Bot Connector Service](https://docs.microsoft.com/en-us/azure/bot-service/bot-concepts?view=azure-bot-service-4.0)
 - [Restify](https://www.npmjs.com/package/restify)
 - [dotenv](https://www.npmjs.com/package/dotenv)
+=======
+# ocr_chatbot_azure
+>>>>>>> 300586c8d5c2a5fbb6f8bbb17188ef11e5e144c9
